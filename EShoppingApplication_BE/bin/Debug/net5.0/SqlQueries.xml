@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Queries>
+	
+	<!-- Auth -->
+
+	<SignUp>
+		<![CDATA[]]>
+	</SignUp> 
+	
+	<SignIn>
+		<![CDATA[]]>
+	</SignIn>
+
+	<!--Product-->
+	
+	<AddProduct>
+		<![CDATA[]]>
+	</AddProduct>
+	
+	<GetAllProduct>
+		<![CDATA[]]>
+	</GetAllProduct>
+	
+	<GetProductByID>
+		<![CDATA[]]>
+	</GetProductByID>
+	
+	<GetProductByName>
+		<![CDATA[]]>
+	</GetProductByName>
+	
+	<UpdateProduct>
+		<![CDATA[]]>
+	</UpdateProduct>
+	
+	<ProductMoveToArchive>
+		<![CDATA[]]>
+	</ProductMoveToArchive>
+	
+	<ProductMoveToTrash>
+		<![CDATA[]]>
+	</ProductMoveToTrash>
+	
+	<ProductDeletePermenently>
+		<![CDATA[]]>
+	</ProductDeletePermenently>
+	
+	<ProductRestore>
+		<![CDATA[]]>
+	</ProductRestore>
+	
+	<!--Cart-->
+
+	<AddToCard>
+		<![CDATA[]]>
+	</AddToCard>
+	
+	<GetAllCardDetails>
+		<![CDATA[]]>
+	</GetAllCardDetails>
+	
+	<RemoveCartProduct>
+		<![CDATA[]]>
+	</RemoveCartProduct>
+	
+	<OrderProduct>
+		<![CDATA[]]>
+	</OrderProduct> 
+
+	<!--WishList-->
+
+	<AddToWishList>
+		<![CDATA[]]>
+	</AddToWishList>
+
+	<GetAllWishListDetails>
+		<![CDATA[]]>
+	</GetAllWishListDetails>
+
+	<RemoveWishListProduct>
+		<![CDATA[]]>
+	</RemoveWishListProduct>
+
+	<MoveToCard>
+		<![CDATA[]]>
+	</MoveToCard>
+
+</Queries>

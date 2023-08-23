@@ -1,0 +1,394 @@
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\appsettings.Development.json
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\appsettings.json
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CartMicroServices.exe
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\SqlQueries.xml
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CartMicroServices.deps.json
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CartMicroServices.runtimeconfig.json
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CartMicroServices.runtimeconfig.dev.json
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CartMicroServices.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\ref\CartMicroServices.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CartMicroServices.pdb
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CloudinaryDotNet.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CommonLayer.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\RepositoryLayers.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\RepositoryLayers.pdb
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CommonLayer.pdb
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.csproj.AssemblyReference.cache
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.AssemblyInfoInputs.cache
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.AssemblyInfo.cs
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.csproj.CoreCompileInputs.cache
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.MvcApplicationPartsAssemblyInfo.cs
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.MvcApplicationPartsAssemblyInfo.cache
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\staticwebassets\CartMicroServices.StaticWebAssets.Manifest.cache
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\staticwebassets\CartMicroServices.StaticWebAssets.xml
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\scopedcss\bundle\CartMicroServices.styles.css
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.RazorTargetAssemblyInfo.cache
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.csproj.CopyComplete
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\ref\CartMicroServices.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.pdb
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.genruntimeconfig.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\appsettings.Development.json
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\appsettings.json
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CartMicroServices.exe
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\SqlQueries.xml
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CartMicroServices.deps.json
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CartMicroServices.runtimeconfig.json
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CartMicroServices.runtimeconfig.dev.json
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CartMicroServices.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\ref\CartMicroServices.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CartMicroServices.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CloudinaryDotNet.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CommonLayer.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\RepositoryLayers.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\RepositoryLayers.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CommonLayer.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.csproj.AssemblyReference.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.AssemblyInfoInputs.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.AssemblyInfo.cs
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.csproj.CoreCompileInputs.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.MvcApplicationPartsAssemblyInfo.cs
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.MvcApplicationPartsAssemblyInfo.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\staticwebassets\CartMicroServices.StaticWebAssets.Manifest.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\staticwebassets\CartMicroServices.StaticWebAssets.xml
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\scopedcss\bundle\CartMicroServices.styles.css
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.RazorTargetAssemblyInfo.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.csproj.CopyComplete
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\ref\CartMicroServices.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.genruntimeconfig.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\appsettings.Development.json
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\appsettings.json
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CartMicroServices.exe
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\SqlQueries.xml
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CartMicroServices.deps.json
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CartMicroServices.runtimeconfig.json
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CartMicroServices.runtimeconfig.dev.json
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CartMicroServices.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\ref\CartMicroServices.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CartMicroServices.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CloudinaryDotNet.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CommonLayer.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\RepositoryLayers.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\RepositoryLayers.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CommonLayer.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.csproj.AssemblyReference.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.AssemblyInfoInputs.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.AssemblyInfo.cs
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.csproj.CoreCompileInputs.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.MvcApplicationPartsAssemblyInfo.cs
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.MvcApplicationPartsAssemblyInfo.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\staticwebassets\CartMicroServices.StaticWebAssets.Manifest.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\staticwebassets\CartMicroServices.StaticWebAssets.xml
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\scopedcss\bundle\CartMicroServices.styles.css
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.RazorTargetAssemblyInfo.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.csproj.CopyComplete
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\ref\CartMicroServices.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.genruntimeconfig.cache
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\appsettings.json
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CartMicroServices.StaticWebAssets.xml
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CartMicroServices.exe
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\SqlQueries.xml
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CartMicroServices.deps.json
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CartMicroServices.runtimeconfig.json
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CartMicroServices.runtimeconfig.dev.json
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CartMicroServices.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CartMicroServices.pdb
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CloudinaryDotNet.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CommonLayer.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\RepositoryLayers.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\RepositoryLayers.pdb
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\CommonLayer.pdb
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.csproj.AssemblyReference.cache
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.AssemblyInfoInputs.cache
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.AssemblyInfo.cs
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.csproj.CoreCompileInputs.cache
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\scopedcss\bundle\CartMicroServices.styles.css
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\staticwebassets\CartMicroServices.StaticWebAssets.Manifest.cache
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\staticwebassets\CartMicroServices.StaticWebAssets.Pack.cache
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\staticwebassets\msbuild.CartMicroServices.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\staticwebassets\msbuild.build.CartMicroServices.props
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CartMicroServices.props
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CartMicroServices.props
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.RazorTargetAssemblyInfo.cache
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.csproj.CopyComplete
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\refint\CartMicroServices.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.pdb
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\CartMicroServices.genruntimeconfig.cache
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\obj\Debug\net5.0\ref\CartMicroServices.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\CartMicroServices\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\appsettings.Development.json
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\appsettings.json
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\CartMicroServices.StaticWebAssets.xml
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\CartMicroServices.exe
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\SqlQueries.xml
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\CartMicroServices.deps.json
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\CartMicroServices.runtimeconfig.json
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\CartMicroServices.runtimeconfig.dev.json
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\CartMicroServices.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\CartMicroServices.pdb
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\CloudinaryDotNet.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\MySqlConnector.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\CommonLayer.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\RepositoryLayers.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\RepositoryLayers.pdb
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\bin\Debug\net5.0\CommonLayer.pdb
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\obj\Debug\net5.0\CartMicroServices.csproj.AssemblyReference.cache
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\obj\Debug\net5.0\CartMicroServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\obj\Debug\net5.0\CartMicroServices.AssemblyInfoInputs.cache
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\obj\Debug\net5.0\CartMicroServices.AssemblyInfo.cs
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\obj\Debug\net5.0\CartMicroServices.csproj.CoreCompileInputs.cache
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\obj\Debug\net5.0\CartMicroServices.MvcApplicationPartsAssemblyInfo.cs
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\obj\Debug\net5.0\CartMicroServices.MvcApplicationPartsAssemblyInfo.cache
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\obj\Debug\net5.0\scopedcss\bundle\CartMicroServices.styles.css
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\obj\Debug\net5.0\staticwebassets\CartMicroServices.StaticWebAssets.Manifest.cache
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\obj\Debug\net5.0\staticwebassets\CartMicroServices.StaticWebAssets.Pack.cache
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\obj\Debug\net5.0\staticwebassets\msbuild.CartMicroServices.Microsoft.AspNetCore.StaticWebAssets.props
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\obj\Debug\net5.0\staticwebassets\msbuild.build.CartMicroServices.props
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CartMicroServices.props
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CartMicroServices.props
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\obj\Debug\net5.0\CartMicroServices.RazorTargetAssemblyInfo.cache
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\obj\Debug\net5.0\CartMicroServices.csproj.CopyComplete
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\obj\Debug\net5.0\CartMicroServices.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\obj\Debug\net5.0\refint\CartMicroServices.dll
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\obj\Debug\net5.0\CartMicroServices.pdb
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\obj\Debug\net5.0\CartMicroServices.genruntimeconfig.cache
+D:\FinalProject\Glocery Management System BE In EF\CartMicroServices\obj\Debug\net5.0\ref\CartMicroServices.dll

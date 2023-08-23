@@ -1,0 +1,184 @@
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.deps.json
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\bin\Debug\net5.0\ref\RepositoryLayers.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.pdb
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\bin\Debug\net5.0\CommonLayer.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\bin\Debug\net5.0\CommonLayer.pdb
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.AssemblyReference.cache
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.AssemblyInfoInputs.cache
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.AssemblyInfo.cs
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.CoreCompileInputs.cache
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.CopyComplete
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\obj\Debug\net5.0\ref\RepositoryLayers.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.pdb
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\bin\Debug\net5.0\SqlQueries.xml
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\bin\Debug\net5.0\SqlQueries.xml
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.deps.json
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\bin\Debug\net5.0\ref\RepositoryLayers.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.pdb
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\bin\Debug\net5.0\CommonLayer.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\bin\Debug\net5.0\CommonLayer.pdb
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.AssemblyReference.cache
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.GeneratedMSBuildEditorConfig.editorconfig
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.AssemblyInfoInputs.cache
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.AssemblyInfo.cs
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.CoreCompileInputs.cache
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.CopyComplete
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\obj\Debug\net5.0\ref\RepositoryLayers.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.pdb
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\SqlQueries.xml
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.deps.json
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.runtimeconfig.json
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.runtimeconfig.dev.json
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\ref\RepositoryLayers.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.pdb
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\CommonLayer.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\CommonLayer.pdb
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.AssemblyReference.cache
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.GeneratedMSBuildEditorConfig.editorconfig
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.AssemblyInfoInputs.cache
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.AssemblyInfo.cs
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.CoreCompileInputs.cache
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.CopyComplete
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\ref\RepositoryLayers.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.pdb
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.genruntimeconfig.cache
+D:\V Technology\YouTube Project\E Commorce Application\Retail Product Management BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\SqlQueries.xml
+D:\V Technology\YouTube Project\E Commorce Application\Retail Product Management BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.deps.json
+D:\V Technology\YouTube Project\E Commorce Application\Retail Product Management BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.runtimeconfig.json
+D:\V Technology\YouTube Project\E Commorce Application\Retail Product Management BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.runtimeconfig.dev.json
+D:\V Technology\YouTube Project\E Commorce Application\Retail Product Management BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.dll
+D:\V Technology\YouTube Project\E Commorce Application\Retail Product Management BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\ref\RepositoryLayers.dll
+D:\V Technology\YouTube Project\E Commorce Application\Retail Product Management BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.pdb
+D:\V Technology\YouTube Project\E Commorce Application\Retail Product Management BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\CommonLayer.dll
+D:\V Technology\YouTube Project\E Commorce Application\Retail Product Management BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\CommonLayer.pdb
+D:\V Technology\YouTube Project\E Commorce Application\Retail Product Management BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.AssemblyReference.cache
+D:\V Technology\YouTube Project\E Commorce Application\Retail Product Management BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.GeneratedMSBuildEditorConfig.editorconfig
+D:\V Technology\YouTube Project\E Commorce Application\Retail Product Management BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.AssemblyInfoInputs.cache
+D:\V Technology\YouTube Project\E Commorce Application\Retail Product Management BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.AssemblyInfo.cs
+D:\V Technology\YouTube Project\E Commorce Application\Retail Product Management BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.CoreCompileInputs.cache
+D:\V Technology\YouTube Project\E Commorce Application\Retail Product Management BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.CopyComplete
+D:\V Technology\YouTube Project\E Commorce Application\Retail Product Management BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.dll
+D:\V Technology\YouTube Project\E Commorce Application\Retail Product Management BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\ref\RepositoryLayers.dll
+D:\V Technology\YouTube Project\E Commorce Application\Retail Product Management BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.pdb
+D:\V Technology\YouTube Project\E Commorce Application\Retail Product Management BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.genruntimeconfig.cache
+D:\V Technology\YouTube Project\E Commorce Application\EShopping BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\SqlQueries.xml
+D:\V Technology\YouTube Project\E Commorce Application\EShopping BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.deps.json
+D:\V Technology\YouTube Project\E Commorce Application\EShopping BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.runtimeconfig.json
+D:\V Technology\YouTube Project\E Commorce Application\EShopping BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.runtimeconfig.dev.json
+D:\V Technology\YouTube Project\E Commorce Application\EShopping BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShopping BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\ref\RepositoryLayers.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShopping BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.pdb
+D:\V Technology\YouTube Project\E Commorce Application\EShopping BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\CommonLayer.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShopping BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\CommonLayer.pdb
+D:\V Technology\YouTube Project\E Commorce Application\EShopping BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.AssemblyReference.cache
+D:\V Technology\YouTube Project\E Commorce Application\EShopping BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.GeneratedMSBuildEditorConfig.editorconfig
+D:\V Technology\YouTube Project\E Commorce Application\EShopping BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.AssemblyInfoInputs.cache
+D:\V Technology\YouTube Project\E Commorce Application\EShopping BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.AssemblyInfo.cs
+D:\V Technology\YouTube Project\E Commorce Application\EShopping BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.CoreCompileInputs.cache
+D:\V Technology\YouTube Project\E Commorce Application\EShopping BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.CopyComplete
+D:\V Technology\YouTube Project\E Commorce Application\EShopping BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShopping BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\ref\RepositoryLayers.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShopping BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.pdb
+D:\V Technology\YouTube Project\E Commorce Application\EShopping BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.genruntimeconfig.cache
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\SqlQueries.xml
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.deps.json
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.runtimeconfig.json
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.runtimeconfig.dev.json
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\ref\RepositoryLayers.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.pdb
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\CommonLayer.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\CommonLayer.pdb
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.AssemblyReference.cache
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.GeneratedMSBuildEditorConfig.editorconfig
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.AssemblyInfoInputs.cache
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.AssemblyInfo.cs
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.CoreCompileInputs.cache
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.CopyComplete
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\ref\RepositoryLayers.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.pdb
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.genruntimeconfig.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\SqlQueries.xml
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.deps.json
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.runtimeconfig.json
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.runtimeconfig.dev.json
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\ref\RepositoryLayers.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\CommonLayer.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\CommonLayer.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.AssemblyReference.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.GeneratedMSBuildEditorConfig.editorconfig
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.AssemblyInfoInputs.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.AssemblyInfo.cs
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.CoreCompileInputs.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.CopyComplete
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\ref\RepositoryLayers.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.genruntimeconfig.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\SqlQueries.xml
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.deps.json
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.runtimeconfig.json
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.runtimeconfig.dev.json
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\ref\RepositoryLayers.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\CommonLayer.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\CommonLayer.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.AssemblyReference.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.GeneratedMSBuildEditorConfig.editorconfig
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.AssemblyInfoInputs.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.AssemblyInfo.cs
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.CoreCompileInputs.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.CopyComplete
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\ref\RepositoryLayers.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.genruntimeconfig.cache
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\SqlQueries.xml
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.deps.json
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.runtimeconfig.json
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.runtimeconfig.dev.json
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.pdb
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\CommonLayer.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\RepositoryLayers\bin\Debug\net5.0\CommonLayer.pdb
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.AssemblyReference.cache
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.AssemblyInfoInputs.cache
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.AssemblyInfo.cs
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.CoreCompileInputs.cache
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.CopyComplete
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\refint\RepositoryLayers.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.pdb
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.genruntimeconfig.cache
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\RepositoryLayers\obj\Debug\net5.0\ref\RepositoryLayers.dll
+D:\FinalProject\Glocery Management System BE In EF\RepositoryLayers\bin\Debug\net5.0\SqlQueries.xml
+D:\FinalProject\Glocery Management System BE In EF\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.deps.json
+D:\FinalProject\Glocery Management System BE In EF\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.runtimeconfig.json
+D:\FinalProject\Glocery Management System BE In EF\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.runtimeconfig.dev.json
+D:\FinalProject\Glocery Management System BE In EF\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.dll
+D:\FinalProject\Glocery Management System BE In EF\RepositoryLayers\bin\Debug\net5.0\RepositoryLayers.pdb
+D:\FinalProject\Glocery Management System BE In EF\RepositoryLayers\bin\Debug\net5.0\CommonLayer.dll
+D:\FinalProject\Glocery Management System BE In EF\RepositoryLayers\bin\Debug\net5.0\CommonLayer.pdb
+D:\FinalProject\Glocery Management System BE In EF\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.AssemblyReference.cache
+D:\FinalProject\Glocery Management System BE In EF\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.GeneratedMSBuildEditorConfig.editorconfig
+D:\FinalProject\Glocery Management System BE In EF\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.AssemblyInfoInputs.cache
+D:\FinalProject\Glocery Management System BE In EF\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.AssemblyInfo.cs
+D:\FinalProject\Glocery Management System BE In EF\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.CoreCompileInputs.cache
+D:\FinalProject\Glocery Management System BE In EF\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.csproj.CopyComplete
+D:\FinalProject\Glocery Management System BE In EF\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.dll
+D:\FinalProject\Glocery Management System BE In EF\RepositoryLayers\obj\Debug\net5.0\refint\RepositoryLayers.dll
+D:\FinalProject\Glocery Management System BE In EF\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.pdb
+D:\FinalProject\Glocery Management System BE In EF\RepositoryLayers\obj\Debug\net5.0\RepositoryLayers.genruntimeconfig.cache
+D:\FinalProject\Glocery Management System BE In EF\RepositoryLayers\obj\Debug\net5.0\ref\RepositoryLayers.dll

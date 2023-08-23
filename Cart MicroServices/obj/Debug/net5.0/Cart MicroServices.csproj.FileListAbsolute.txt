@@ -1,0 +1,40 @@
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\bin\Debug\net5.0\appsettings.Development.json
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\bin\Debug\net5.0\appsettings.json
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\bin\Debug\net5.0\Cart MicroServices.exe
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\bin\Debug\net5.0\Cart MicroServices.deps.json
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\bin\Debug\net5.0\Cart MicroServices.runtimeconfig.json
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\bin\Debug\net5.0\Cart MicroServices.runtimeconfig.dev.json
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\bin\Debug\net5.0\Cart MicroServices.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\bin\Debug\net5.0\ref\Cart MicroServices.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\bin\Debug\net5.0\Cart MicroServices.pdb
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\bin\Debug\net5.0\Cart MicroServices.Views.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\bin\Debug\net5.0\Cart MicroServices.Views.pdb
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\Cart MicroServices.csproj.AssemblyReference.cache
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\Cart MicroServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\Cart MicroServices.AssemblyInfoInputs.cache
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\Cart MicroServices.AssemblyInfo.cs
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\Cart MicroServices.csproj.CoreCompileInputs.cache
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\Cart MicroServices.MvcApplicationPartsAssemblyInfo.cache
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\Cart MicroServices.RazorAssemblyInfo.cache
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\Cart MicroServices.RazorAssemblyInfo.cs
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\staticwebassets\Cart MicroServices.StaticWebAssets.Manifest.cache
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\staticwebassets\Cart MicroServices.StaticWebAssets.xml
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\scopedcss\bundle\Cart MicroServices.styles.css
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\Cart MicroServices.TagHelpers.input.cache
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\Cart MicroServices.TagHelpers.output.cache
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\Cart MicroServices.RazorCoreGenerate.cache
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\Cart MicroServices.RazorTargetAssemblyInfo.cache
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\Cart MicroServices.RazorTargetAssemblyInfo.cs
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\Cart MicroServices.Views.pdb
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\Cart MicroServices.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\ref\Cart MicroServices.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\Cart MicroServices.pdb
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\Cart MicroServices.genruntimeconfig.cache
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\Cart MicroServices\obj\Debug\net5.0\Cart MicroServices.csproj.CopyComplete

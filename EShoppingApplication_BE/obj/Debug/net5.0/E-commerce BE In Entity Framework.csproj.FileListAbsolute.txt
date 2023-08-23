@@ -1,0 +1,351 @@
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\appsettings.Development.json
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\appsettings.json
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\E-commerce BE In Entity Framework.exe
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\SqlQueries.xml
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\E-commerce BE In Entity Framework.deps.json
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\E-commerce BE In Entity Framework.runtimeconfig.json
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\E-commerce BE In Entity Framework.runtimeconfig.dev.json
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\E-commerce BE In Entity Framework.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\ref\E-commerce BE In Entity Framework.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\E-commerce BE In Entity Framework.pdb
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\CloudinaryDotNet.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Grpc.Core.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Humanizer.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\CommonLayer.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\RepositoryLayers.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\CommonLayer.pdb
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\RepositoryLayers.pdb
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.csproj.AssemblyReference.cache
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.AssemblyInfoInputs.cache
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.AssemblyInfo.cs
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.csproj.CoreCompileInputs.cache
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.MvcApplicationPartsAssemblyInfo.cs
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.MvcApplicationPartsAssemblyInfo.cache
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\staticwebassets\E-commerce BE In Entity Framework.StaticWebAssets.Manifest.cache
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\staticwebassets\E-commerce BE In Entity Framework.StaticWebAssets.xml
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\scopedcss\bundle\E-commerce BE In Entity Framework.styles.css
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.RazorTargetAssemblyInfo.cache
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.csproj.CopyComplete
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\ref\E-commerce BE In Entity Framework.dll
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.pdb
+D:\V Technology\YouTube Project\E Commorce Application\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.genruntimeconfig.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\appsettings.Development.json
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\appsettings.json
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\E-commerce BE In Entity Framework.exe
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\SqlQueries.xml
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\E-commerce BE In Entity Framework.deps.json
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\E-commerce BE In Entity Framework.runtimeconfig.json
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\E-commerce BE In Entity Framework.runtimeconfig.dev.json
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\E-commerce BE In Entity Framework.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\ref\E-commerce BE In Entity Framework.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\E-commerce BE In Entity Framework.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\CloudinaryDotNet.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Grpc.Core.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Humanizer.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\CommonLayer.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\RepositoryLayers.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\CommonLayer.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\RepositoryLayers.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.csproj.AssemblyReference.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.AssemblyInfoInputs.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.AssemblyInfo.cs
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.csproj.CoreCompileInputs.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.MvcApplicationPartsAssemblyInfo.cs
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.MvcApplicationPartsAssemblyInfo.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\staticwebassets\E-commerce BE In Entity Framework.StaticWebAssets.Manifest.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\staticwebassets\E-commerce BE In Entity Framework.StaticWebAssets.xml
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\scopedcss\bundle\E-commerce BE In Entity Framework.styles.css
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.RazorTargetAssemblyInfo.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.csproj.CopyComplete
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\ref\E-commerce BE In Entity Framework.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.genruntimeconfig.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\appsettings.Development.json
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\appsettings.json
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\E-commerce BE In Entity Framework.exe
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\SqlQueries.xml
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\E-commerce BE In Entity Framework.deps.json
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\E-commerce BE In Entity Framework.runtimeconfig.json
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\E-commerce BE In Entity Framework.runtimeconfig.dev.json
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\E-commerce BE In Entity Framework.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\ref\E-commerce BE In Entity Framework.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\E-commerce BE In Entity Framework.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\CloudinaryDotNet.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Grpc.Core.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Humanizer.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\CommonLayer.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\RepositoryLayers.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\CommonLayer.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\RepositoryLayers.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.csproj.AssemblyReference.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.AssemblyInfoInputs.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.AssemblyInfo.cs
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.csproj.CoreCompileInputs.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.MvcApplicationPartsAssemblyInfo.cs
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.MvcApplicationPartsAssemblyInfo.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\staticwebassets\E-commerce BE In Entity Framework.StaticWebAssets.Manifest.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\staticwebassets\E-commerce BE In Entity Framework.StaticWebAssets.xml
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\scopedcss\bundle\E-commerce BE In Entity Framework.styles.css
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.RazorTargetAssemblyInfo.cache
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.csproj.CopyComplete
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\ref\E-commerce BE In Entity Framework.dll
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.pdb
+D:\V Technology\Internship\E Commorce Application\React + .Net Core With EF\E-Commerce Latest\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.genruntimeconfig.cache
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\appsettings.json
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\E-commerce BE In Entity Framework.StaticWebAssets.xml
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\E-commerce BE In Entity Framework.exe
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\SqlQueries.xml
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\E-commerce BE In Entity Framework.deps.json
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\E-commerce BE In Entity Framework.runtimeconfig.json
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\E-commerce BE In Entity Framework.runtimeconfig.dev.json
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\E-commerce BE In Entity Framework.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\E-commerce BE In Entity Framework.pdb
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\CloudinaryDotNet.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Grpc.Core.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Humanizer.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\CommonLayer.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\RepositoryLayers.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\CommonLayer.pdb
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\RepositoryLayers.pdb
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.csproj.AssemblyReference.cache
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.AssemblyInfoInputs.cache
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.AssemblyInfo.cs
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.csproj.CoreCompileInputs.cache
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\scopedcss\bundle\E-commerce BE In Entity Framework.styles.css
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\staticwebassets\E-commerce BE In Entity Framework.StaticWebAssets.Manifest.cache
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\staticwebassets\E-commerce BE In Entity Framework.StaticWebAssets.Pack.cache
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\staticwebassets\msbuild.E-commerce BE In Entity Framework.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\staticwebassets\msbuild.build.E-commerce BE In Entity Framework.props
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.E-commerce BE In Entity Framework.props
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.E-commerce BE In Entity Framework.props
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.RazorTargetAssemblyInfo.cache
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.csproj.CopyComplete
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\refint\E-commerce BE In Entity Framework.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.pdb
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\E-commerce BE In Entity Framework.genruntimeconfig.cache
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\ref\E-commerce BE In Entity Framework.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\VishalWaman\source\repos\Glocery Management System\E-commerce BE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll

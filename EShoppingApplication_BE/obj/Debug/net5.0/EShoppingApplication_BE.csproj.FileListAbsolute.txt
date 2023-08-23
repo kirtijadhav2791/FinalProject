@@ -1,0 +1,208 @@
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\appsettings.json
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\EShoppingApplication_BE.exe
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\EShoppingApplication_BE.deps.json
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\EShoppingApplication_BE.runtimeconfig.json
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\EShoppingApplication_BE.runtimeconfig.dev.json
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\EShoppingApplication_BE.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\ref\EShoppingApplication_BE.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\EShoppingApplication_BE.pdb
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\CommonLayer.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\RepositoryLayers.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\CommonLayer.pdb
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\RepositoryLayers.pdb
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.csproj.AssemblyReference.cache
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.AssemblyInfoInputs.cache
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.AssemblyInfo.cs
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.csproj.CoreCompileInputs.cache
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\staticwebassets\EShoppingApplication_BE.StaticWebAssets.Manifest.cache
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\staticwebassets\EShoppingApplication_BE.StaticWebAssets.xml
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\scopedcss\bundle\EShoppingApplication_BE.styles.css
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.RazorTargetAssemblyInfo.cache
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.csproj.CopyComplete
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\ref\EShoppingApplication_BE.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.pdb
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.genruntimeconfig.cache
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\SqlQueries.xml
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Grpc.Core.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+C:\Users\visha\source\repos\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\CloudinaryDotNet.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\appsettings.Development.json
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\appsettings.json
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\EShoppingApplication_BE.exe
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\SqlQueries.xml
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\EShoppingApplication_BE.deps.json
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\EShoppingApplication_BE.runtimeconfig.json
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\EShoppingApplication_BE.runtimeconfig.dev.json
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\EShoppingApplication_BE.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\ref\EShoppingApplication_BE.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\EShoppingApplication_BE.pdb
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\CloudinaryDotNet.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Grpc.Core.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\CommonLayer.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\RepositoryLayers.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\CommonLayer.pdb
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\bin\Debug\net5.0\RepositoryLayers.pdb
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.csproj.AssemblyReference.cache
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.GeneratedMSBuildEditorConfig.editorconfig
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.AssemblyInfoInputs.cache
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.AssemblyInfo.cs
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.csproj.CoreCompileInputs.cache
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.MvcApplicationPartsAssemblyInfo.cs
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.MvcApplicationPartsAssemblyInfo.cache
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\staticwebassets\EShoppingApplication_BE.StaticWebAssets.Manifest.cache
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\staticwebassets\EShoppingApplication_BE.StaticWebAssets.xml
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\scopedcss\bundle\EShoppingApplication_BE.styles.css
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.RazorTargetAssemblyInfo.cache
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.csproj.CopyComplete
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\ref\EShoppingApplication_BE.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.pdb
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplication_BE\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.genruntimeconfig.cache
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\appsettings.Development.json
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\appsettings.json
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\EShoppingApplication_BE.exe
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\SqlQueries.xml
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\EShoppingApplication_BE.deps.json
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\EShoppingApplication_BE.runtimeconfig.json
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\EShoppingApplication_BE.runtimeconfig.dev.json
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\EShoppingApplication_BE.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\ref\EShoppingApplication_BE.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\EShoppingApplication_BE.pdb
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\CloudinaryDotNet.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Grpc.Core.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Humanizer.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\linux-arm64\native\libgrpc_csharp_ext.arm64.so
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\linux-x64\native\libgrpc_csharp_ext.x64.so
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\osx-x64\native\libgrpc_csharp_ext.x64.dylib
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x64\native\grpc_csharp_ext.x64.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x86\native\grpc_csharp_ext.x86.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\CommonLayer.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\RepositoryLayers.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\CommonLayer.pdb
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\bin\Debug\net5.0\RepositoryLayers.pdb
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.csproj.AssemblyReference.cache
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.GeneratedMSBuildEditorConfig.editorconfig
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.AssemblyInfoInputs.cache
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.AssemblyInfo.cs
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.csproj.CoreCompileInputs.cache
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.MvcApplicationPartsAssemblyInfo.cs
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.MvcApplicationPartsAssemblyInfo.cache
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\staticwebassets\EShoppingApplication_BE.StaticWebAssets.Manifest.cache
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\staticwebassets\EShoppingApplication_BE.StaticWebAssets.xml
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\scopedcss\bundle\EShoppingApplication_BE.styles.css
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.RazorTargetAssemblyInfo.cache
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.csproj.CopyComplete
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\ref\EShoppingApplication_BE.dll
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.pdb
+D:\V Technology\YouTube Project\E Commorce Application\EShoppingApplicationBE In Entity Framework\EShoppingApplication_BE\obj\Debug\net5.0\EShoppingApplication_BE.genruntimeconfig.cache
