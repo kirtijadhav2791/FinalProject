@@ -1,0 +1,58 @@
+.HomePage-Container {
+    height: 100%;
+    width: 100%;
+
+    .HomePage-SubContainer {
+        height: 100%;
+        width: 100%;
+
+        .HomePage-SubContainer-Header {
+        }
+
+        .HomePage-SubContainer-Body {
+            height: 80%;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            background-color: #202020af;
+
+            .HomePage-SubContainer-Body-SubBody1 {
+                height: 80%;
+                width: 100%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+
+            .HomePage-SubContainer-Body-SubBody2 {
+                height: 20%;
+                width: 100%;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+
+                .MuiPaginationItem-outlinedSecondary.Mui-selected {
+                    background-color: white;
+                    color: red;
+                    border: 1px solid white;
+                }
+            }
+        }
+
+        .HomePage-SubContainer-Footer {
+            height: 10.5%;
+            width: 100%;
+            // border: 0.5px solid white;
+            box-sizing: border-box;
+            background-color: black;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            font-family: "Roboto";
+        }
+    }
+}

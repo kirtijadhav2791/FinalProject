@@ -1,0 +1,43 @@
+.AddProduct-Container {
+    height: inherit;
+    width: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #202020af;
+
+    .AddProduct-SubContainer {
+        height: 90%;
+        width: 90%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: white;
+
+        .AddProduct-Box1 {
+            height: 90%;
+            width: 35%;
+            // border: 0.5px solid lightgray;
+            border-radius: 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+
+            .ImageField {
+                height: 82%;
+                width: 90%;
+                // border: 00.5px solid black;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+        }
+
+        .AddProduct-Box2 {
+            height: 90%;
+            width: 45%;
+            // border: 0.5px solid black;
+        }
+    }
+}

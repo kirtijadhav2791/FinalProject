@@ -1,0 +1,275 @@
+.UserDashBoard-Container {
+    height: 100%;
+    width: 100%;
+    .Sub-Container {
+        height: 100%;
+        min-width: 1517.5px;
+        .Body {
+            height: 90.5%;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            .Sub-Body {
+                height: 100%;
+                width: 100%;
+                display: flex;
+                .SubBody11 {
+                    width: 20%;
+                    height: 100%;
+                    padding: 5px 0 0 0;
+                    box-sizing: border-box;
+                    transition: width 0.3s;
+                    z-index: 1;
+                    background-color: #202020;
+                    .MuiTreeItem-iconContainer {
+                        // display: none;
+                        height: 0%;
+                        width: 0%;
+                    }
+                    .MuiTreeItem-label {
+                        font-weight: 500;
+                        margin: 0 0 10px 0;
+                    }
+                    .MuiTreeItem-group {
+                        margin: 0;
+                        padding: 0;
+                        margin-left: 30px;
+                        text-align: initial;
+                    }
+                }
+                .SubBody12 {
+                    width: 5%;
+                    height: 100%;
+                    padding: 5px 0 0 0;
+                    box-sizing: border-box;
+                    transition: width 0.3s;
+                    z-index: 1;
+                    display: flex;
+                    flex-direction: column;
+                    background-color: #202020;
+                }
+                .SubBody21 {
+                    width: 80%;
+                    height: 100%;
+                    z-index: 1;
+                    transition: width 0.3s;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    background-color: #202020af;
+                }
+                .SubBody22 {
+                    width: 95%;
+                    height: 100%;
+                    z-index: 1;
+                    transition: width 0.3s;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    .OpenUserDetailNav-Container {
+                        height: inherit;
+                        width: inherit;
+                        background-color: #202020af;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        .OpenUserDetailNav-SubContainer {
+                            height: 60%;
+                            width: 60%;
+                            border: 0.5px solid white;
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                            flex-direction: column;
+                            background-color: white;
+                        }
+                    }
+
+                    .OpenUserAddressNav-Container {
+                        height: inherit;
+                        width: inherit;
+                        background-color: #202020af;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        .OpenUserAddressNav-SubContainer {
+                            height: 90%;
+                            width: 80%;
+                            background-color: white;
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                            flex-direction: column;
+                        }
+                    }
+                }
+                .Sub-OpenCurrentInfo {
+                    width: 100%;
+                    height: 100%;
+                    background-color: black;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: row;
+                }
+                .NavButton1 {
+                    height: 50px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: row;
+                    cursor: pointer;
+                    padding-left: 10px;
+                    background-color: rgba(112, 111, 110, 0.253);
+                    .NavButtonText {
+                        width: 80%;
+                        font-family: "Roboto";
+                        font-weight: 500;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        color: yellow;
+                    }
+                    &:hover {
+                        background-color: rgba(112, 111, 110, 0.253);
+                    }
+                }
+
+                .NavButton11 {
+                    color: yellow;
+                }
+
+                .NavButton22 {
+                    color: white;
+                }
+
+                .NavButton2 {
+                    height: 50px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    flex-direction: row;
+                    cursor: pointer;
+                    padding-left: 10px;
+                    .NavButtonText {
+                        width: 80%;
+                        font-family: "Roboto";
+                        font-weight: 500;
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                    }
+                    &:hover {
+                        background-color: rgba(112, 111, 110, 0.253);
+                    }
+                }
+            }
+        }
+    }
+}
+.Input-Field {
+    display: flex;
+    width: 450px;
+    margin: 7px;
+    .Text {
+        width: 170px;
+        margin: 8px 10px 8px 0;
+        font-size: medium;
+        font-family: "Roboto";
+        font-weight: 500;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    .Text-Input {
+        width: 350px;
+    }
+}
+.Input-Field1 {
+    width: 500px;
+    display: flex;
+    .Text {
+        width: 50%;
+        margin: 8px 0 8px 0;
+        font-size: 20px;
+        font-family: "Roboto";
+        font-weight: 500;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+    }
+    .Text-Input {
+        width: 50%;
+        font-size: 20px;
+        color: blue;
+        font-family: "Roboto";
+        font-weight: 500;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+.Header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Roboto";
+    font-weight: 500;
+    background-color: black;
+    color: white;
+}
+.Row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 15px;
+}
+.Row1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 12px;
+    text-overflow: ellipsis;
+    margin: 0 5px;
+}
+
+.search {
+    position: relative;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.151);
+    margin: 0 30px 0 0;
+    width: 30%;
+    height: 42px;
+    display: flex;
+
+    .searchIcon {
+        padding: 0 10px;
+        width: 8%;
+        height: 100%;
+        // position: absolute;
+        pointer-events: none;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .inputRoot {
+        color: inherit;
+        width: 92%;
+    }
+    .inputInput {
+        padding: 10px 10px 10px 0;
+        width: 100%;
+    }
+}
+
+.search:is(:hover) {
+    background-color: rgba(255, 255, 255, 0.212);
+}

@@ -1,0 +1,87 @@
+.GetProduct-Container {
+  height: inherit;
+  width: inherit;
+  background-color: #202020af;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.GetProduct-Container .GetProduct-SubContainer {
+  height: 90%;
+  width: inherit;
+  padding: 20px;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.GetProduct-Container .MuiPaginationItem-outlinedSecondary.Mui-selected {
+  color: black;
+  border: black;
+  background-color: white;
+}
+
+.HomePage-SubContainer-Body-SubBody1 {
+  height: 90%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.HomePage-SubContainer-Body-SubBody2 {
+  height: 10%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Model-Create-Ticket {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Model-Open-Getway-Main {
+  background-color: white;
+  box-shadow: 5px;
+  padding: 5px;
+  width: 500px;
+  height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 5px;
+}
+
+.Model-Open-Getway-Body {
+  height: 80%;
+  width: 100%;
+  font-family: "Roboto";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.Model-Create-Ticket-Body-Row {
+  margin: 10px;
+  box-sizing: border-box;
+  font-weight: 550;
+  display: flex;
+  align-items: center;
+}
+
+.Model-Create-Ticket-Header {
+  height: 8%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Roboto";
+  font-weight: 500;
+}

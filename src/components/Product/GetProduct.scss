@@ -1,0 +1,47 @@
+.GetProduct-Container {
+    height: inherit;
+    width: inherit;
+    background-color: #202020af;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    .GetProduct-SubContainer {
+        height: 90%;
+        width: inherit;
+        padding: 20px;
+        box-sizing: border-box;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        flex-direction: row;
+    }
+
+    .MuiPaginationItem-outlinedSecondary.Mui-selected {
+        color: black;
+        border: black;
+        background-color: white;
+    }
+}
+
+.Model-Open-Getway-Body {
+    height: 80%;
+    width: 100%;
+    font-family: "Roboto";
+
+    .Model-Create-Ticket-Body-Row {
+        margin: 15px;
+        box-sizing: border-box;
+        font-weight: 550;
+        display: flex;
+        align-items: center;
+    }
+}
+
+.CartDetail {
+    display: flex;
+    justify-content: center;
+}
+
+
